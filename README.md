@@ -21,3 +21,6 @@ As pastas no repositório estão divididas de acordo com o número da atividade 
   - Desempenho_ML: Itens 2 e 4
   - cross_validation_k_Fold: Item 3
   - Teste_música: Item 5
+
+### Note
+Obs: O desafio fo desenvolvido no Google Colab, portanto, os códigos, descrições e resultados estão em seus respectivos arquivos.
