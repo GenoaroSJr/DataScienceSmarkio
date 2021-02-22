@@ -17,7 +17,7 @@ permita identificar qual trecho de música corresponde às respectivas artistas 
 
 ## A organização do respositório
 As pastas no repositório estão divididas de acordo com o número da atividade sugerida, portanto:
-  - Análise_Exploratória_Inferencial: Item 1
-  - Desempenho: Itens 2 e 4
-  - Classificador_Revision: Item 3
-  - Classifiador_Músical: Item 5
+  - AnáliseExploratória: Item 1
+  - Desempenho_ML: Itens 2 e 4
+  - cross_validation_k_Fold: Item 3
+  - Teste_música: Item 5
