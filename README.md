@@ -16,7 +16,7 @@ permita identificar qual trecho de música corresponde às respectivas artistas 
 (Sugestão: Naive Bayes Classifier).
 
 ## A organização do respositório
-As pastas no repositório estão divididas de acordo com o número da atividade sugerida, portanto:
+Ao arquivos no repositório estão divididas de acordo com o número da atividade sugerida, portanto:
   - AnáliseExploratória: Item 1
   - Desempenho_ML: Itens 2 e 4
   - cross_validation_k_Fold: Item 3
